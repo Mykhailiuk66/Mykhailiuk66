@@ -5,9 +5,15 @@
   Hi there 👋
   </h1>
 </div>
+
 <div align="center">
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="600" height="300"/>
+</div>
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="600" height="300"/>
 </div>
+-->
+
 <!--
 **Mykhailiuk66/Mykhailiuk66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
