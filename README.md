@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif" width="100"/>
 </div>
+<h1>
 Hi there 👋
+</h1>
 <hr>
 <!--
 **Mykhailiuk66/Mykhailiuk66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
