@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/6LTJ4inRqlvmxtbLuV/giphy.gif" width="150"/>
   <br> 
-  <a href="https://www.google.com" target="_blank">
+  <a href="https://t.me/vit_lik_6" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
@@ -48,10 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mykhailiuk66&theme=android-dark&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykhailiuk66&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykhailiuk66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykhailiuk66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
   
  </div>
   
