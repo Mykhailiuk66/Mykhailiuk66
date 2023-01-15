@@ -8,25 +8,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/6LTJ4inRqlvmxtbLuV/giphy.gif" width="150"/>
   <br> 
-  <a href="https://t.me/vit_lik_6" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+ 
+<a href="https://t.me/vit_lik_6" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="86" height="21"/>
   </a>
-</div>
 
-<div align="center">
-
-<h1> :woman_technologist: About Me </h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-</div>
-  
 ---
 
 <div align="center">
@@ -54,6 +40,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   
 <!--
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="600" height="300"/>
