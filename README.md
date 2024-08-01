@@ -3,15 +3,13 @@
   <h1>
   Hi there 👋
   </h1>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/6LTJ4inRqlvmxtbLuV/giphy.gif" width="150"/>
-  <br> 
- 
-<a href="https://t.me/vit_lik_6" target="_blank">
+  <a href="https://t.me/vit_lik_6" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="86" height="21"/>
   </a>
+</div>
+
+
 
 ---
 
